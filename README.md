@@ -17,10 +17,6 @@ Build a Python backend application to manage student records using Create, Read,
 pip install -r requirements.txt
 
 ## Project Screenshots - Live Running Proof
-API running locally at http://127.0.0.1:8000/docs
-
-Screenshots of CRUD operations:
-## Project Screenshots - Live Running Proof
 API running at http://127.0.0.1:8000/docs
 
 ![1](Screenshot%202026-10-11%20135843.png)
